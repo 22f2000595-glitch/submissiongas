@@ -1,0 +1,5 @@
+port: 8135
+workers: 11
+debug: true
+log_level: info
+api_key: key-eiacmrnr2f
